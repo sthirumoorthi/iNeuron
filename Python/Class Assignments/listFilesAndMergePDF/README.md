@@ -15,6 +15,10 @@
   - PyPDF2
   - OS
 
+# **Folder Structure:**
+![image](https://user-images.githubusercontent.com/90926526/151658100-67e45a2c-4a29-46d3-b95d-d3bd15577893.png)
+
+
 # **Screenshots**
 Initial screen:
 
